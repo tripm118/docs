@@ -1,6 +1,7 @@
 # Tasks, Reports, Marketing & Other Modules
 
 ## 1. Tasks Module
+![alt text](./images/task.png)
 
 ### 1.1 Giới thiệu
 Quản lý tasks/to-dos cho team.
@@ -143,6 +144,8 @@ Analytics và reporting dashboard.
 ### 3.1 Giới thiệu
 Marketing campaigns và email/SMS broadcasts.
 
+![Marketing Module](./images/image-22.png)
+
 **Route:** `/marketing`
 
 ### 3.2 Yêu cầu chức năng
@@ -202,6 +205,7 @@ Power dialer cho outbound calling.
 ---
 
 ## 5. Mentions Module
+![alt text](./images/mentions.png)
 
 ### 5.1 Giới thiệu
 Quản lý @mentions trong tickets/messages.
@@ -341,32 +345,3 @@ Public file upload page cho leads.
 - Integration callbacks (Jira, Slack, Zapier)
 
 ---
-
-### Tasks
-- Test create/edit/delete task
-- Test assign task
-- Test mark as complete
-- Test filters (my tasks, overdue, etc.)
-
-### Reports
-- Test date range filters
-- Test export CSV/PDF
-- Test chart rendering
-- Test data accuracy
-
-### Marketing
-- Test email builder
-- Test SMS broadcast
-- Test campaign analytics
-- Test opt-out handling
-
-### Dialer
-- Test call queue
-- Test auto-dial
-- Test call recording
-
-### Client Portal
-- Test client login
-- Test portal features
-- Test file upload
-- Test invoice payment

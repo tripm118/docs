@@ -11,6 +11,8 @@ Màn hình Tickets là trung tâm quản lý tất cả các yêu cầu hỗ tr�
 
 ---
 
+![Tickets View](./images/image-13.png)
+
 ## 2. Yêu cầu chức năng
 
 ### 2.1 Hiển thị Tickets
@@ -36,8 +38,6 @@ Màn hình Tickets là trung tâm quản lý tất cả các yêu cầu hỗ tr�
 
 ![Ticket Detail View](./images/image-9.png)
 
-![Ticket Filters](./images/image-10.png)
-
 ### 2.3 Quản lý Ticket
 - **Assign staff:** Phân công ticket cho staff
 - **Update status:** Chuyển trạng thái `open` ↔ `assigned` ↔ `closed`
@@ -46,6 +46,7 @@ Màn hình Tickets là trung tâm quản lý tất cả các yêu cầu hỗ tr�
   - Bulk update status
   - Bulk assign staff
   - Bulk delete
+![Ticket Filters](./images/image-10.png)
 
 ### 2.4 Trả lời Ticket
 - Gửi tin nhắn qua các kênh:

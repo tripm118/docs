@@ -62,11 +62,13 @@ nav:
   - 🧩 Widget:
       - Overview: widget/Widget.md
   - 🔌 API:
-      - Overview: api/API.md
+      - Development Guide: api/DEVELOPMENT.md
+  - 📅 Booking Flow:
+      - Overview: booking-flow/booking-flow.md
   - 📋 Intake Form:
-      - Overview: intake-form/IntakeForm.md
+      - Online Forms Documentation: intake-form/online-forms-documentation.md
   - ⚙️ Workflow:
-      - Overview: workflow/Workflow.md
+      - Workflow Guide: workflow/WORKFLOW.md
 
 # Markdown extensions
 markdown_extensions:

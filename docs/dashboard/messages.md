@@ -1,4 +1,5 @@
 # Messages Screen - Quản lý tin nhắn tập trung
+![alt text](./images/messages.png)
 
 ## 1. Giới thiệu
 Màn hình Messages là inbox tập trung cho tất cả tin nhắn từ các kênh (SMS, Email, Facebook, Instagram, Chat Widget...).

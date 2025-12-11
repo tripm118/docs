@@ -2,6 +2,8 @@
 
 ## 1. Giới thiệu
 
+![Contacts & Leads Module](./images/image-20.png)
+
 ### 1.1 Contacts Screen
 Quản lý tất cả contacts/leads trong hệ thống.
 

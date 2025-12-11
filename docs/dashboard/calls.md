@@ -1,4 +1,5 @@
 # Calls Screen - Quản lý cuộc gọi
+![alt text](./images/call.png)
 
 ## 1. Giới thiệu
 Màn hình Calls quản lý tất cả cuộc gọi voice (inbound/outbound) qua Twilio integration.

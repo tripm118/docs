@@ -12,6 +12,8 @@ Module Payment quản lý thanh toán, invoices, payment methods cho cả intern
 
 ---
 
+![Billing Dashboard](./images/image-14.png)
+
 ## 2. Yêu cầu chức năng
 
 ### 2.1 Billing Dashboard
@@ -43,6 +45,8 @@ Module Payment quản lý thanh toán, invoices, payment methods cho cả intern
   - Set due date
   - Add notes
   - Send to client
+  ![Invoice List](./images/image-27.png)
+  ![Billing Dashboard](./images/image-15.png)
 
 ### 2.3 Payment Methods
 - **Manage Payment Methods:**

@@ -1,4 +1,5 @@
 # Fax Screen - Quản lý fax
+![alt text](./images/fax.png)
 
 ## 1. Giới thiệu
 Màn hình Fax quản lý gửi/nhận fax qua Twilio Programmable Fax.

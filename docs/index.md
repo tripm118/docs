@@ -1,10 +1,13 @@
 # PilotPractice Documentation
 
-
-## 📚 Tài liệu
-
 ### 🎯 [Dashboard Documentation](dashboard/README.md)
+
 ### 🧩 [Widget Documentation](widget/Widget.md)
-### 🔌 [API Documentation](api/API.md) - Coming Soon
-### 📋 [Intake Form Documentation](intake-form/IntakeForm.md) - Coming Soon
-### ⚙️ [Workflow Documentation](workflow/Workflow.md) - Coming Soon
+
+### 🔌 [API Development Guide](api/DEVELOPMENT.md)
+
+### 📅 [Booking Flow](booking-flow/booking-flow.md)
+
+### 📋 [Intake Form Documentation](intake-form/online-forms-documentation.md)
+
+### ⚙️ [Workflow Guide](workflow/WORKFLOW.md)

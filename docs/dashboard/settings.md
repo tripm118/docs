@@ -7,6 +7,8 @@ Module Settings quản lý tất cả cấu hình của project, bao gồm accou
 
 **Nested Routes:** (19 sub-routes)
 
+![Settings Dashboard](./images/image-16.png)
+
 ---
 
 ## 2. Nested Routes Structure
@@ -42,6 +44,8 @@ Module Settings quản lý tất cả cấu hình của project, bao gồm accou
 | `/settings/channels/webhook-url/` | ChannelAppWebhookUrlDetail | Webhook URL config |
 | `/settings/channels/:channelApp/` | ChannelAppDetail | Chi tiết channel app (Jira, Slack, Zapier...) |
 | `/settings/channels/:channelApp/:name` | ChannelDetail | Chi tiết channel cụ thể |
+
+![Channels Dashboard](./images/image-17.png)
 
 ### 2.6 Notification
 | Route | Component | Mục đích |

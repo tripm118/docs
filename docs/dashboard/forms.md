@@ -3,6 +3,8 @@
 ## 1. Giới thiệu
 Module Forms quản lý PDF-based templates với e-signature support. Forms được tạo từ PDF templates, thêm custom fields overlay, và gửi cho leads/staffs để điền và ký.
 
+![Forms Module](./images/image-21.png)
+
 **Routes:**
 - `/forms` - Danh sách templates và forms
 - `/forms/:id` - Template editor hoặc form viewer
@@ -320,17 +322,7 @@ pages/apps/forms.tsx
 ## 6. Template Types
 
 ### 6.1 Form Templates
-- Intake forms
-- Consent forms
-- HIPAA authorization
-- Patient registration
-- Medical history
-
 ### 6.2 Document Templates
-- Contracts
-- Agreements
-- Policies
-
 ### 6.3 Communication Templates
 - Email templates
 - SMS templates

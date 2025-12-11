@@ -1,5 +1,5 @@
 # Voicemails Screen - Quản lý thư thoại
-
+![alt text](./images/voicemails.png)
 ## 1. Giới thiệu
 Màn hình Voicemails hiển thị tất cả các cuộc gọi có status `voicemail` - khi caller để lại tin nhắn thoại.
 

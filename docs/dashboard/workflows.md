@@ -71,7 +71,7 @@ Module Workflows cho phép tạo automation rules để tự động hóa các t
 }
 ```
 
-### 3.2 WorkflowData (Dự kiến)
+### 3.2 WorkflowData
 ```typescript
 {
   name: string;
@@ -182,36 +182,3 @@ pages/apps/workflows.tsx
 - **Admin/Owner:** Create/edit/delete workflows
 
 ---
-
-## 9. Limitations & Unknown
-
-### 9.1 Không rõ từ source code:
-- ❓ Workflow builder UI (simple form hay visual builder?)
-- ❓ Trigger types (event-based, time-based, manual?)
-- ❓ Action types (chỉ email/SMS hay còn actions khác?)
-- ❓ Payload structure (conditions, filters, timing...)
-- ❓ Execution engine (queue-based, cron-based?)
-
-### 9.2 Cần verify thêm:
-- [ ] Check workflow builder component
-- [ ] Check workflow_trigger table/API
-- [ ] Check workflow execution logs
-- [ ] Check payload examples từ database
-
----
-
----
-
-## 11. Gợi ý Documentation
-
-**Để hoàn thiện tài liệu này, cần:**
-1. Check workflow builder component code
-2. Check API routes cho workflows
-3. Check database schema cho workflow_trigger
-4. Check payload examples từ existing workflows
-5. Check execution engine implementation
-
-**Files cần check:**
-- `containers/apps/workflows/` - UI components
-- `api/workflow/` - API calls
-- Database migrations - workflow tables schema
